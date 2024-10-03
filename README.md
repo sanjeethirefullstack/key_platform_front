@@ -1,2 +1,1 @@
-# key_platform_front
-key_platform_frone
+https://medium.com/@aayyash/authentication-in-angular-why-it-is-so-hard-to-wrap-your-head-around-it-23ea38a366de
